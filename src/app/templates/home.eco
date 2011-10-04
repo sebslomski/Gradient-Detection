@@ -1,0 +1,8 @@
+<div class="wrapper">
+  <h1>Canvas Gradient Detection</h1>
+</div>
+<div class="wrapper content">
+  <canvas id="input" width="500" height="500"></canvas>
+  <div class="vr"></div>
+  <canvas id="output" width="250" height="500"></canvas>
+</div>
